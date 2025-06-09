@@ -1,0 +1,6 @@
+production_id,product_id,product_name,production_date,quantity_produced,production_cost
+1,P001,Kemeja Katun,2025-01-10,500,75000.00
+2,P002,Celana Jeans,2025-01-15,300,120000.00
+3,P003,Jaket Kulit,2025-02-01,200,250000.00
+4,P001,Kemeja Katun,2025-02-10,400,76000.00
+5,P004,Sepatu Sneaker,2025-03-01,250,150000.00

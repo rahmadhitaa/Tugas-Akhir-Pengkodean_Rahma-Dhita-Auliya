@@ -1,0 +1,6 @@
+inventory_id,product_id,warehouse_id,stock_quantity,last_updated
+1,P001,W001,450,2025-03-10
+2,P002,W001,280,2025-03-10
+3,P003,W002,180,2025-03-10
+4,P004,W001,240,2025-03-10
+5,P001,W002,100,2025-03-10
